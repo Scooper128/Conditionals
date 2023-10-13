@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Cinema", "4Cinema\4Cinema.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Cinema2", "5Cinema2\5Cinema2.csproj", "{B52321FE-AB0C-4340-94A8-6AFB2CB1B560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7TaxCalc", "7TaxCalc\7TaxCalc.csproj", "{16BF0DA7-1136-47BD-A590-FADCB31C4F2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B52321FE-AB0C-4340-94A8-6AFB2CB1B560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B52321FE-AB0C-4340-94A8-6AFB2CB1B560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B52321FE-AB0C-4340-94A8-6AFB2CB1B560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BF0DA7-1136-47BD-A590-FADCB31C4F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BF0DA7-1136-47BD-A590-FADCB31C4F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BF0DA7-1136-47BD-A590-FADCB31C4F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BF0DA7-1136-47BD-A590-FADCB31C4F2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\bin\Debug\net6.0\7TaxCalc.exe
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\bin\Debug\net6.0\7TaxCalc.deps.json
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\bin\Debug\net6.0\7TaxCalc.runtimeconfig.json
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\bin\Debug\net6.0\7TaxCalc.dll
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\bin\Debug\net6.0\7TaxCalc.pdb
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.AssemblyInfoInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.AssemblyInfo.cs
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.csproj.CoreCompileInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.dll
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\refint\7TaxCalc.dll
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.pdb
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\7TaxCalc.genruntimeconfig.cache
+C:\Stuff\repo\Conditionals\Conditionals\7TaxCalc\obj\Debug\net6.0\ref\7TaxCalc.dll
