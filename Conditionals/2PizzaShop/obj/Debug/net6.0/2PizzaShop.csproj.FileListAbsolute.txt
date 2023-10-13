@@ -1,0 +1,14 @@
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\bin\Debug\net6.0\2PizzaShop.exe
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\bin\Debug\net6.0\2PizzaShop.deps.json
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\bin\Debug\net6.0\2PizzaShop.runtimeconfig.json
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\bin\Debug\net6.0\2PizzaShop.dll
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\bin\Debug\net6.0\2PizzaShop.pdb
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.AssemblyInfoInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.AssemblyInfo.cs
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.csproj.CoreCompileInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.dll
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\refint\2PizzaShop.dll
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.pdb
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\2PizzaShop.genruntimeconfig.cache
+C:\Stuff\repo\Conditionals\Conditionals\2PizzaShop\obj\Debug\net6.0\ref\2PizzaShop.dll
