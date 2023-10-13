@@ -1,0 +1,14 @@
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\bin\Debug\net6.0\5Cinema2.exe
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\bin\Debug\net6.0\5Cinema2.deps.json
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\bin\Debug\net6.0\5Cinema2.runtimeconfig.json
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\bin\Debug\net6.0\5Cinema2.dll
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\bin\Debug\net6.0\5Cinema2.pdb
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.AssemblyInfoInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.AssemblyInfo.cs
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.csproj.CoreCompileInputs.cache
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.dll
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\refint\5Cinema2.dll
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.pdb
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\5Cinema2.genruntimeconfig.cache
+C:\Stuff\repo\Conditionals\Conditionals\5Cinema2\obj\Debug\net6.0\ref\5Cinema2.dll
